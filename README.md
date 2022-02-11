@@ -1,7 +1,3 @@
-⚠️ 
-
-Sorry, I have no more time to maintain this project and I no longer play ProjectZomboid to properly follow its progress. Feel free to fork this project and continue this work on your side.
-
 # Project Zomboid server - Docker image
 
 Docker version of the Project Zomboid steam server.
